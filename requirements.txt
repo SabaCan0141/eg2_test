@@ -1,0 +1,6 @@
+sentence-transformers[image]
+transformers
+torch
+numpy
+Pillow
+tqdm
